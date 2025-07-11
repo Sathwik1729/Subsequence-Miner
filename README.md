@@ -66,6 +66,4 @@ MINING RESULTS
 ## Notes
 - For large sequences, non-contiguous mining is limited for performance.
 - If no patterns are found, try lowering min support or increasing max pattern length.
-
-## License
-This project is provided for educational and research purposes. 
+ 
